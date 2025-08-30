@@ -3,8 +3,8 @@
 
 <h2>Projects:</h2>
 <h3>Cybersecurity Projects: <a href="https://github.com/averyk-47/averyk-cybrsec">CYBRSEC Projects</a> </h3>
-<h3>Python Projects: <a href="https://github.com/averyk-47/averyk-java">Java Projects</a> </h3>
-<h3>Java Projects: <a href="https://github.com/averyk-47/averyk-python">Python Projects</a> </h3> 
+<h3>Python Projects: <a href="https://github.com/averyk-47/averyk-java">Python Projects</a> </h3>
+<h3>Java Projects: <a href="https://github.com/averyk-47/averyk-python">Java Projects</a> </h3> 
 
 
 <hr>
