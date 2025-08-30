@@ -1,5 +1,5 @@
 <h1>Hi, I'm Avery! </h1>
-<h4>I am studying Cybersecurity with an emphasis in CIS, These are some of my documented prjects I have worked on</h4>
+<h4>I am studying Cybersecurity with an emphasis in CIS, These are some of my documented projects I have worked on</h4>
 
 <h2>Projects:</h2>
 <h3>Cybersecurity Projects: <a href="https://github.com/averyk-47/averyk-cybrsec">CYBRSEC Projects</a> </h3>
