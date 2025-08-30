@@ -1,9 +1,12 @@
 <h1>Hi, I'm Avery! </h1>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
+<h3>Cybersecurity Projects:</h3>
+<h3>Python Projects:</h3>
+<h3>Java Projects:</h3>
 
 
-
+<hr>
 <h2>Video Portfolio:</h2>
 
 
