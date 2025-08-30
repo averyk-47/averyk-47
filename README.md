@@ -19,11 +19,10 @@
 
 [<img align="left" alt="Avery | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Avery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Avery | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 [youtube]: https://www.youtube.com/channel/UCCL-i6UgUgipdbAmaYAUSog
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/avery-kuenzi-84549523a/
 
 <!--
