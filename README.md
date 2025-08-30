@@ -1,4 +1,5 @@
 <h1>Hi, I'm Avery! </h1>
+<h4>I am studying Cybersecurity with an emphasis in CIS, These are some of my documented prjects I have worked on</h4>
 
 <h2>Projects:</h2>
 <h3>Cybersecurity Projects:</h3>
@@ -8,7 +9,7 @@
 
 <hr>
 <h2>Video Portfolio:</h2>
-
+<h4>All my projects are recorded and published to my YouTube channel which you can find here or from the Youtube Hyperlink at the bottom of this page</h4>
 
 
 <h2>Certifications:</h2>
